@@ -1,0 +1,6 @@
+.*
+!.gitignore
+*.code-workspace
+*build
+CMakePresets.json
+CMakeUserPresets.json
